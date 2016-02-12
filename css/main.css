@@ -13,3 +13,9 @@ body {
         background-color: #a45f9a;
     }
 }
+
+@media screen and (min-width: 1280px) {
+    body {
+        background-color: #5fa469;
+    }
+}
