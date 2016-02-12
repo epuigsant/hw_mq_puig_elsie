@@ -1,0 +1,9 @@
+body {
+    background-color: #36648b;
+}
+
+@media screen and (min-width: 675px) {
+    body {
+        background-color: #5f9aa4;
+    }
+}
